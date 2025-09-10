@@ -10,13 +10,13 @@ This project analyzes client credit data to **improve loan approval processes, a
 
 ## Data Sources
 
-- **Base File**: Loan Application and Approval details [data/base_file.csv](data/base_file.csv)
-- **Enquiry File**: Credit score checking [data/enquiry_data.csv](data/enquiry_data.csv)
-- **Tradeline File**: Credit Activity [data/tradeline_data.csv](data/tradeline_data.csv)
+- **Base File**: Loan Application and Approval details [`data/base_file.csv`](data/base_file.csv)
+- **Enquiry File**: Credit score checking [`data/enquiry_data.csv`](data/enquiry_data.csv)
+- **Tradeline File**: Credit Activity [`data/tradeline_data.csv`](data/tradeline_data.csv)
 
 ## How to Use Solution
 
-- Open [analysis/excel_analysis.xlsx](analysis/excel_analysis.xlsx)
+- Open [`analysis/excel_analysis.xlsx`](analysis/excel_analysis.xlsx)
 - Navigate to the `Dashboard` sheet to view the visuals and insights.
 - More visuals are available in the [`/visuals`](./visuals) folder. 
 
