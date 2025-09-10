@@ -32,7 +32,7 @@ This project analyzes client credit data to **improve loan approval processes, a
 - Used Histograms for distribution analysis
 - Summary table for statistical analysis of key metrics
 
-![Univariate Analysis visual](visuals/UnivariateAnalysis.png.png)
+![Univariate Analysis visual](visuals/UnivariateAnalysis.png)
 
 ### 2. Bivariate Analysis (Relationship between any 2 variables)
 - Implement Joins (Power Query) to merge the original 3 datasets
